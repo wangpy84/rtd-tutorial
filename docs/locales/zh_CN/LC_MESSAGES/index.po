@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, Graziella
+# This file is distributed under the same license as the Lumache package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lumache 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-09 17:21+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/index.rst:2 d905cb5b19ae43168ae7489fec388a0c
+msgid "Welcome to Lumache's documentation!"
+msgstr "欢迎访问 Lumache 的文档"
+
+#: ../../source/index.rst:4 eb0c4a54f84d4230be2b2ca87afc37e4
+msgid ""
+"**Lumache** (/lu'make/) is a Python library for cooks and food lovers "
+"that creates recipes mixing random ingredients. It pulls data from the "
+"`Open Food Facts database <https://world.openfoodfacts.org/>`_ and offers"
+" a *simple* and *intuitive* API."
+msgstr ""
+
+#: ../../source/index.rst:9 e1cb3ca4b3374f9ba943b253be3b4f6b
+msgid ""
+"Check out the :doc:`usage` section for further information, including how"
+" to :ref:`installation` the project."
+msgstr ""
+
+#: ../../source/index.rst:14 e56382c1c2214deab0a42e0a164f07af
+msgid "This project is under active development."
+msgstr "此项目正在开发中"
+
+#: ../../source/index.rst:17 17b53182bd0a43299ca5e755f6e9531c
+msgid "Contents"
+msgstr "内容"
+
