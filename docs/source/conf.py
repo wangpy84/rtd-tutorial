@@ -1,5 +1,11 @@
 # Configuration file for the Sphinx documentation builder.
 
+# multi-language docs
+language = 'en'
+locale_dirs = ['../locales/']   # path is example but recommended.
+gettext_compact = False  # optional.
+gettext_uuid = True  # optional.
+
 # -- Project information
 
 project = 'Lumache'
