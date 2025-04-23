@@ -48,9 +48,6 @@ extensions = [
     'sphinx.ext.inheritance_diagram',
     'sphinx.ext.coverage',
     'sphinx.ext.graphviz',
-    'sphinx_design',
-    'myst_parser',
-    'sphinxcontrib.mermaid',
 ]
 
 
