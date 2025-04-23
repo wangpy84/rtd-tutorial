@@ -1,0 +1,85 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, DataCanvas
+# This file is distributed under the same license as the DingoDB package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DingoDB \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-23 09:22+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/play_with_dingo_using_Langchain.md:1
+#: baa0797e0aa048b7b9c6232623548a90
+msgid "Play with DingoDB using Langchain"
+msgstr ""
+
+#: ../../source/play_with_dingo_using_Langchain.md:3
+#: f738a9e2480840e0ae44f9d4f98df9b6
+msgid ""
+"[Dingo](https://dingodb.readthedocs.io/en/latest/) is a distributed "
+"multi-mode vector database, which combines the characteristics of data "
+"lakes and vector databases, and can store data of any type and size (Key-"
+"Value, PDF, audio, video, etc.). It has real-time low-latency processing "
+"capabilities to achieve rapid insight and response, and can efficiently "
+"conduct instant analysis and process multi-modal data."
+msgstr ""
+
+#: ../../source/play_with_dingo_using_Langchain.md:5
+#: 4c47a01a16a245188f161ab5ab185d97
+msgid ""
+"This notebook shows how to use functionality related to the DingoDB "
+"vector database."
+msgstr ""
+
+#: ../../source/play_with_dingo_using_Langchain.md:7
+#: d7b330db1e23476799f2aea95904b066
+msgid ""
+"To run, you should have a [DingoDB instance up and "
+"running](https://dingodb.readthedocs.io/en/latest/deployment/index.html)."
+msgstr ""
+
+#: ../../source/play_with_dingo_using_Langchain.md:14
+#: cb1ba7f00e674583b4cc75c586904a0d
+msgid "We want to use OpenAIEmbeddings so we have to get the OpenAI API Key."
+msgstr ""
+
+#: ../../source/play_with_dingo_using_Langchain.md:74
+#: 4248eb8e77f741fca6191a2ad0f164c3
+msgid "Adding More Text to an Existing Index"
+msgstr ""
+
+#: ../../source/play_with_dingo_using_Langchain.md:76
+#: 8802701d8f044c7787d1c2d94dc0e5df
+msgid ""
+"More text can embedded and upserted to an existing Dingo index using the "
+"add_texts function."
+msgstr ""
+
+#: ../../source/play_with_dingo_using_Langchain.md:84
+#: 42812559a2804adab54ab5a005e41d14
+msgid "Maximal Marginal Relevance Searches"
+msgstr ""
+
+#: ../../source/play_with_dingo_using_Langchain.md:86
+#: 41fc97b96d734c3d83f5a4d1e46b56c0
+msgid ""
+"In addition to using similarity search in the retriever object, you can "
+"also use mmr as retriever."
+msgstr ""
+
+#: ../../source/play_with_dingo_using_Langchain.md:94
+#: 53a85cd0aad34fba957c67c129c7bdb1
+msgid "Or use 'max_marginal_relevance_search' directly:"
+msgstr ""
+

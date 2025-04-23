@@ -1,0 +1,267 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, DataCanvas
+# This file is distributed under the same license as the DingoDB package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DingoDB \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-23 09:22+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/play_with_dingo_using_dingoclient.md:1
+#: c957ad07e75a406688af72a1146e2f55
+msgid "Play with DingoDB using DingoClient"
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:3
+#: f0fe91faf00b4adfa81dc8673ea5b801
+msgid "Introducation"
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:5
+#: f7da24eefa7f481a8266a55c2ec8e3f6
+msgid ""
+"DingoDB is a distributed real-time multi-modal database. In order to be "
+"more faster, it presents a Java API which is comprehensive and powerful "
+"to do operations on the database, such as DDL or DML operation."
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:7
+#: fe1fe0c3ea8f430b83a5bfc3060cd3ac
+msgid "Operation using DingoClient"
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:9
+#: e7d0fdcbcd71420ca5dfcd6cba13f410
+msgid "Dependence about DingoClient"
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:11
+#: 9bbe94e388524bf6bb722278dff2daa0
+msgid ""
+"`dingo-sdk` artifactory can be download from maven central using pom "
+"directly."
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:21
+#: b8e9e09553e648a6b48a7218cc7d06cb
+msgid "Function about dingo-client"
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:23
+#: 6a3b470f676e4c23b6740847da19d8bb
+msgid ""
+"**Function about Dingo API**: [API "
+"Documents](https://github.com/dingodb/dingo)"
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:25
+#: 4e8621d0b68c4f5c823ed6b048707f00
+msgid "Examples about dingo-client"
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:26
+#: bd507908590949d29dbd68c6d83fdc75
+msgid "Implemented in two ways, as follows:"
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:28
+#: ec8a9aab5b1249c29a53f5ad15d5aaf6
+msgid "Mode One"
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:30
+#: 06722a38b1874a6c928270d7bde17d2e
+msgid "1.Define table Using Pojo"
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:56
+#: 88483dcf00ee4039853bb020b7aca911
+msgid "2.Create table Using DingoClient"
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:66
+#: c4ce0122578a463a8788ff7cad1df54c
+msgid "3.Insert records to table"
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:79
+#: c72d7e4656294794a703b41f43987b60
+msgid "4.Query data"
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:80
+#: ../../source/play_with_dingo_using_dingoclient.md:161
+#: d666c1327de2493db4bb42ca8b5edd9f e79b61d0049240e3ab0be19d98372315
+msgid "Query a single record"
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:84
+#: ../../source/play_with_dingo_using_dingoclient.md:165
+#: 4aaabe94e48d48df8a2dd1029951dfb6 98909153fdc14a8d8ca9f75a51b90224
+msgid "Query multiple records 1"
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:88
+#: ../../source/play_with_dingo_using_dingoclient.md:169
+#: 8c66e868dfc54ac897c2d03cb35e971c a0008d7773a144bd8facac15df25dc9d
+msgid "Query multiple records 2"
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:92
+#: be7513278e07433b84adc2f315976112
+msgid "5.Sample Data of Table"
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:116
+#: 8f226fc9e5094135b723b214c0af800e
+msgid "6.Drop table and close connection"
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:123
+#: d804e6d2eeff47f0b632ba94f1c696b6
+msgid "Mode Two"
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:124
+#: 2859c7ff591d43ed995c8d3721d80781
+msgid "1.To create a table using Dingo Client"
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:146
+#: f966f99fd7604884a162312340dedbea
+msgid "2.Insert records to table"
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:147
+#: e2353b48489141c59147afd10e354e51
+msgid "Insert a single record"
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:152
+#: d4cc4268c22844f58150d955c4b45714
+msgid "Insert multiple records"
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:160
+#: 5bb7d22a54f54175b0ab1cc8d77950f3
+msgid "3.Query data"
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:173
+#: db12c741e8e04053872e14431aa4d126
+msgid "4.Drop table and close connection"
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:180
+#: bc1e0bde1416401f9d52145e80baf92d
+msgid "Operation using Annotation"
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:182
+#: 41f7398b14154d72b2a0641b670649e1
+msgid ""
+"DingoDB presents a Java API which is comprehensive and powerful, but "
+"requires a measure of boiler plate code to map the data from Java POJOs "
+"to the database. The Annotation is aim to lower the amount of code "
+"required when mapping POJOs to DingoDB and back as well as reducing some "
+"of the brittleness of the code."
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:184
+#: b72067f3f5794197b81ce08054d8ec77
+msgid "Keys"
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:186
+#: 37a8163e60784121a368857679cb0709
+msgid ""
+"The key to an DingoDB record can be specified either as a field or a "
+"property. Remember that DingoDB keys can be Strings, numberical types and"
+" date types only."
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:188
+#: e97be10f536c482789a34d15bf6063b3
+msgid ""
+"To use a field as the key, simply mark the field with the DingoKey "
+"annotation:"
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:197
+#: b07e485ee9cd4b838fe07b61c59bd924
+msgid "Column"
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:199
+#: de28942daf3f4e4cb305cdfd038fcf33
+msgid ""
+"Fields in Java can be mapped to the database irrespective of the "
+"visibility of the column. To do so, simply specify the column to map to "
+"with the @DingoColumn annotation:"
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:206
+#: 527b4787f92c4e6aaab06dc61e0ed37b
+msgid ""
+"This will map the contents of the `version` field to a `vrsn` column in "
+"DingoDB."
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:208
+#: fbaf8e5044024d00bdc88a99a8da24f1
+msgid ""
+"If the name of the column matches the name of the field in Java, the name"
+" can be omitted:"
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:215
+#: d90c1ba6b9ac43809151fb4bca94a926
+msgid "This will appear in DingoDB as the `age` column."
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:217
+#: e5f0a3120afa48c69f76bbd9a94f8635
+msgid ""
+"By default, all fields will be mapped to the database. Fields can be "
+"excluded with the @DingoExclude annotation, and renamed with the "
+"@DingoColumn annotation. For example:"
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:228
+#: 688092cb0a98472db2709ec25786cff1
+msgid ""
+"This saves the record with 4 columns, `a`,`b`,`c`,`d`. To save only "
+"fields `a`,`b`,`c` you can do either:"
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:241
+#: 17a0cd0442424a06a775ec34684407e1
+msgid ""
+"If a field is marked with both @DingoExclude, the column will not be "
+"mapped to the database."
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:243
+#: 7bb73e7bd2754431b340316597b8f4db
+msgid ""
+"You can force the name of a particular column or columns by specifying "
+"them in an DingoColumn:"
+msgstr ""
+
+#: ../../source/play_with_dingo_using_dingoclient.md:256
+#: e4418e844f834748a1b733307e251bbd
+msgid "This will save 4 fields in the database, `a`, `b`, `longCname`, `d`."
+msgstr ""
+
